@@ -10,7 +10,9 @@ Figure 1.  A screen shot of the orginal csv sales data without formatting.
 Figure 2.  A screen shot of the sales data after formatting and data fill-in (Notice unnecessary columns have been removed)
 <img width="883" height="572" alt="image" src="https://github.com/user-attachments/assets/831eef52-f015-4a99-a9cc-899bdee5c76e" />
 
+
 Figure 3.  A screen shot of the Data Summary Report created by VBA
+
 <img width="370" height="211" alt="image" src="https://github.com/user-attachments/assets/b562f1c3-40d6-49b6-9f49-fa5d27eee816" />
 
 Figure 4.  A screen shot of the Error Log spreadsheet.  Summary of types of errors occurred during automation.
