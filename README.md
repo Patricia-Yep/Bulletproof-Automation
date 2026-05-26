@@ -15,6 +15,7 @@ Figure 3.  A screen shot of the Data Summary Report created by VBA
 
 <img width="370" height="211" alt="image" src="https://github.com/user-attachments/assets/b562f1c3-40d6-49b6-9f49-fa5d27eee816" />
 
+
 Figure 4.  A screen shot of the Error Log spreadsheet.  Summary of types of errors occurred during automation.
 <img width="975" height="163" alt="image" src="https://github.com/user-attachments/assets/50dbb5f8-dfb6-4d07-a79f-9b91058fbb12" />
 
