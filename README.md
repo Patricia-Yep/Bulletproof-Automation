@@ -1,13 +1,13 @@
-# Bulletproof-Automation
-In this project I used VBA and Macros to automate the formatting a csv sales report, provide data cleaning and fill in missing values.
-VBA was also used to create a new spreadsheet containing a summary report with formatting.
-Finally, Error Handling was implemented into the code to capture any errors that occur during the automation.  VBA was also able to keep an error log of all the errors encountered so that solutions can be written into the code if a recurring error appears repeatedly.
+# VBA and Macros Automation
+In this project VBA and Macros were used to automate the formatting a csv sales report, provide data cleaning and fill in missing values.
+VBA was used to create a new spreadsheet containing a summary report with formatting.
+Error Handling was implemented into the code to capture any errors that occur during the automation.  VBA kept an error log of all the errors encountered for tracking purposes.  
 
 Figure 1.  A screen shot of the orginal csv sales data without formatting.
 <img width="908" height="522" alt="image" src="https://github.com/user-attachments/assets/dce0a286-11b0-4c3a-87e6-4662aaa1d4e9" />
 
 
-Figure 2.  A screen shot of the sales data after formatting and data fill-in (Notice unnecessary columns have been removed)
+Figure 2.  A screen shot of the sales data after formatting and data fill-in (Unnecessary columns were removed)
 <img width="883" height="572" alt="image" src="https://github.com/user-attachments/assets/831eef52-f015-4a99-a9cc-899bdee5c76e" />
 
 
