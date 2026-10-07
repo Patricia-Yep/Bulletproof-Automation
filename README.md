@@ -3,6 +3,8 @@ In this project VBA and Macros were used to automate the formatting a csv sales 
 VBA was used to create a new spreadsheet containing a summary report with formatting.
 Error Handling was implemented into the code to capture any errors that occur during the automation.  VBA kept an error log of all the errors encountered for tracking purposes.  
 
+##Detailed information of data cleaning, formatting, and full VBA code found in attached Word document.
+
 Figure 1.  A screen shot of the orginal csv sales data without formatting.
 <img width="908" height="522" alt="image" src="https://github.com/user-attachments/assets/dce0a286-11b0-4c3a-87e6-4662aaa1d4e9" />
 
